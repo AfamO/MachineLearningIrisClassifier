@@ -1,2 +1,2 @@
 # MachineLearningIrisClassifier
-This is an API FCC personal project that accepts a valid url, gives a shortened version in json format and then allows you to redirect to the original url using the shortened version
+This is a simple machine learning app that classifies a given species of Iris using an existing trained Model.
